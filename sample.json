@@ -1,0 +1,13 @@
+{
+  "type": "sample_account",
+  "project_id": "sampleid",
+  "private_key_id": "sampleid",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nsampleid\n-----END PRIVATE KEY-----\n",
+  "client_email": "sample@email.com",
+  "client_id": "sampleid",
+  "auth_uri": "sample.url",
+  "token_uri": "sample.url",
+  "auth_provider_x509_cert_url": "sample.url",
+  "client_x509_cert_url": "sample.url",
+  "universe_domain": "sample.domain"
+}
