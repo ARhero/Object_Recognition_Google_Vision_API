@@ -1,5 +1,5 @@
 import os
-os.environ['GOOGLE_APPLICATION_CREDENTIALS']='objectrecognitionapi-1a58bc0b58f9.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS']='sample.json'
 
 def detect_labels(path):
     """Detects labels in the file."""
